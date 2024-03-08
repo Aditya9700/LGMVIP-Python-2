@@ -5,7 +5,7 @@ The snake game is a classic video game that has been played by everyone during t
 
 ## Watch the full live demo of the Program :
 
-## How to install and use GIF Creator Program :
+## How to install and play Snake Game :
 1. Clone this Project on your local PC.
 2. Install the latest Python version and Juypter Notebook on your local PC.
 4. That's it! now you just have to execute this program to enjoy playing the classic snake game on your local PC !!
